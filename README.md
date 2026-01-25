@@ -1,5 +1,13 @@
-<<<<<<< HEAD
-# Assignment-1
-=======
-# Assignment1
->>>>>>> 378c6aaa002953f4592587760f862334a8992de5
+<h1>Task 1: Perform Basic Mathematical Operations</h1>
+1. Takes two numbers as input from the user.
+2.  Performs the basic mathematical operations on these two numbers:
+ o	Addition
+ o	Subtraction
+ o	Multiplication
+ o	Division
+3.  Displays the results of each operation on the screen.
+
+<h1>Task 2: Create a Personalized Greeting</h1>
+1.  Takes a user's first name and last name as input.
+2.  Concatenates the first name and last name into a full name.
+3.  Prints a personalized greeting message using the full name.
